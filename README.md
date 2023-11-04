@@ -5,7 +5,7 @@
 - <b>Automated Bottle Filler</b>
   - [Conveyor Belt Bottle Filler]([//]: # (put link here))
 - <b>Digital Skydiving Altimeter</b>
-  - [Skysense Altimeter]([//]: # (put link here))
+  - [Skysense Altimeter](https://github.com/MateoArteaga/Skysense-Altimeter/tree/main)
 
 <h2>📺 Demonstration Videos</h2>
 
