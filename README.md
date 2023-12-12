@@ -3,7 +3,7 @@
 <h2>👨‍💻 Embedded projects:</h2>
 
 - <b>Automated Bottle Filler</b>
-  - [Conveyor Belt Bottle Filler]([//]: # (put link here))
+  - [Conveyor Belt Bottle Filler](https://webmailbyui-my.sharepoint.com/:p:/g/personal/stangerg_byui_edu/EQd4JFJHApNPusMlNAStXaoBW4qCZTbax-o0NLmi-jrTMg?e=0Y8nrx)
 - <b>Digital Skydiving Altimeter</b>
   - [Skysense Altimeter](https://github.com/MateoArteaga/Skysense-Altimeter/tree/main)
 
